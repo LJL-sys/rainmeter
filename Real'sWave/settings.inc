@@ -3,35 +3,35 @@
 @include1=./MeasureAudio.inc
 
 Mode=1
-;Mode=1-5(5¸öÄ£Ê½£º¾­µä-Á÷ÐÇ-Ë«»·-WaveCC-Íò»¨Í²)
+;Mode=1-5(5ä¸ªæ¨¡å¼ï¼šç»å…¸-æµæ˜Ÿ-åŒçŽ¯-WaveCC-ä¸‡èŠ±ç­’)
 
-Color=#MusiColorX#
+Color=#MusiColorO#,([MR7M]*1000)
 
-;ÕûÌåÑÕÉ«£¨RGB£¬Ö»ÌîÒ»¸öÊý»òÕßÁ½¸öÊýÓÐ¾ªÏ²£©
+;æ•´ä½“é¢œè‰²ï¼ˆRGBï¼Œåªå¡«ä¸€ä¸ªæ•°æˆ–è€…ä¸¤ä¸ªæ•°æœ‰æƒŠå–œï¼‰
 
 Xc=500
-;Xc=#SCREENAREAWIDTH#  or  500£¨¾ÓÖÐÆÁÄ»Óë·ñ£©
+;Xc=#SCREENAREAWIDTH#  or  500ï¼ˆå±…ä¸­å±å¹•ä¸Žå¦ï¼‰
 
 Amount=50
 ;45
-;Amount=0-90£¨°×ÌõÊýÁ¿£¬Å¼Êý£¬ÊÊµ±µ÷½ÚÓÐÐ§½µµÍÕ¼ÓÃ£©
+;Amount=0-90ï¼ˆç™½æ¡æ•°é‡ï¼Œå¶æ•°ï¼Œé€‚å½“è°ƒèŠ‚æœ‰æ•ˆé™ä½Žå ç”¨ï¼‰
 
 InnerWidth=0
-;ÄÚÈ¦´ÖÏ¸£¨²¿·ÖÄ£Ê½²»ÊÊÓÃ£©
+;å†…åœˆç²—ç»†ï¼ˆéƒ¨åˆ†æ¨¡å¼ä¸é€‚ç”¨ï¼‰
 
 InnerLength=0
-;ÄÚÈ¦³¤¶È£¨²¿·ÖÄ£Ê½²»ÊÊÓÃ£©
+;å†…åœˆé•¿åº¦ï¼ˆéƒ¨åˆ†æ¨¡å¼ä¸é€‚ç”¨ï¼‰
 
 OuterWidth=10
-;ÍâÈ¦´ÖÏ¸£¨²¿·ÖÄ£Ê½²»ÊÊÓÃ£©
+;å¤–åœˆç²—ç»†ï¼ˆéƒ¨åˆ†æ¨¡å¼ä¸é€‚ç”¨ï¼‰
 
 OuterLength=-230
-;ÍâÈ¦³¤¶È£¨²¿·ÖÄ£Ê½²»ÊÊÓÃ£©
+;å¤–åœˆé•¿åº¦ï¼ˆéƒ¨åˆ†æ¨¡å¼ä¸é€‚ç”¨ï¼‰
 
 Time=0
-;ÏÔÊ¾Ê±¼ä=1£¬Òþ²ØÊ±¼ä=0£¬Ä¬ÈÏÏÔÊ¾
-TimeFont=·½ÕýÀ¼Í¤³¬Ï¸ºÚ¼òÌå
+;æ˜¾ç¤ºæ—¶é—´=1ï¼Œéšè—æ—¶é—´=0ï¼Œé»˜è®¤æ˜¾ç¤º
+TimeFont=æ–¹æ­£å…°äº­è¶…ç»†é»‘ç®€ä½“
 
-;±£´æºó£¬Êó±ê¹öÂÖµã»÷£¬¼´¿ÉË¢ÐÂ
+;ä¿å­˜åŽï¼Œé¼ æ ‡æ»šè½®ç‚¹å‡»ï¼Œå³å¯åˆ·æ–°
 
 Color=0,0,0,0
